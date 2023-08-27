@@ -1,0 +1,4 @@
+go/.docker
+go/mysql
+go/.docker/grafana_data/
+*/node_modules
