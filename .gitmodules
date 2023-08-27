@@ -1,0 +1,9 @@
+[submodule "kafka"]
+	path = kafka
+	url = https://github.com/rafelis1997/imersao-14-kafka
+[submodule "nextjs"]
+	path = nextjs
+	url = https://github.com/rafelis1997/imersao-14-nextjs
+[submodule "nestjs"]
+	path = nestjs
+	url = https://github.com/rafelis1997/imersao-14-nestjs
